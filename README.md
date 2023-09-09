@@ -13,4 +13,3 @@ For the system I used (MacOS M2), all I had to do was:
 ```
 brew install tesseract
 ```
-# PyTesseract-OCR-Experimentation

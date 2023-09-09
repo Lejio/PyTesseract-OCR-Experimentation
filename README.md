@@ -1,4 +1,4 @@
-# PyTesseractOCR-Experimentation
+# PyTesseract-OCR-Experimentation
 
 ---
 
